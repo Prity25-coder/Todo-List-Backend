@@ -1,0 +1,14 @@
+# ignore .env file
+.env*
+
+# don't ignore .env.example file (which will help other developer)
+!.env.example
+
+# ignore .git folder
+.git
+
+# node modules
+node_modules
+
+# ignore .vscode
+.vscode
